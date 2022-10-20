@@ -1,0 +1,1 @@
+FROM tigergraph/tigergraph-k8s:3.2.4
